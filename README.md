@@ -1,1 +1,3 @@
 # SampleAndroid
+
+FabricやCircleCI、SciroccoCloudの設定値はXXXにしています。
